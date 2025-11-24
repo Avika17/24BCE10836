@@ -1,4 +1,4 @@
-My EcoFootprint Calculator: 
+EcoFootprint Calculator: 
 
 It is a simple Java program that helps anyone get a quick, personalized estimate of their annual carbon footprint. It was the perfect blend of practicing my Java skills and building something that actually matters for the planet.
 
